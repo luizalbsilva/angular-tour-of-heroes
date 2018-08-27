@@ -23,7 +23,7 @@
 	background-color: #bbd8dc !important;
 	color: white;
 }
-.heores li:hover {
+.heroes li:hover {
 	color: #607d8b;
 	background-color: #ddd;
 	left: .1em;
